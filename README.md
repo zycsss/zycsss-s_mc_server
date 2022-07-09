@@ -9,7 +9,7 @@
 5. 将整合包（是一个 .zip 文件）拖入 HMCL 中。
 6. 点击确定（如果以前有安装过需要删除老版本的整合包。MC 存档是和账号绑定的，所以理论上不会对存档造成影响。）
 7. 确认此时 HMCL 中选中游戏版本是最新的整合包。
-   - 点击版本号![版本确认1](images\版本确认1.png)
+   - 点击版本号![版本确认1](https://github.com/zycsss/zycsss-s_mc_server/blob/main/images/%E7%89%88%E6%9C%AC%E7%A1%AE%E8%AE%A41.png)
    - 点击 “模组管理” 选项
    - 和压缩包内 "overrides/mods" 文件夹中的项目所比对。
      - 注意！！！⚠ "overrides/mods" 文件夹中有些模组的后缀为 disabled，此时可以在启动器的模组管理菜单中看到此 mod 没有打勾，意为此 mod 被关闭。
