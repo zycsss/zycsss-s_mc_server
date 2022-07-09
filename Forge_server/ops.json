@@ -1,0 +1,44 @@
+[
+  {
+    "uuid": "bd2b6778-bfaf-3e7e-bd06-abf83abdaead",
+    "name": "microsoft",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8cdb0840-3b12-3609-8672-3b5e98196abf",
+    "name": "zycsss",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "06d64548-4625-3457-99ba-db00e51c0db5",
+    "name": "Inkn",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2114cd3b-96c1-348e-9c5b-1144fa099884",
+    "name": "lu",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d040956b-077c-3d53-b169-570b1ce4f91d",
+    "name": "lumang",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "04571477-122f-327f-9f09-2ccb0774e693",
+    "name": "Lumang2006",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "49862b95-4ad5-43f5-bb58-fb6956247e22",
+    "name": "zycsss",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
